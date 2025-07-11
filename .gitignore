@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+data/
+*.parquet
+*.db
+structure_check.py
