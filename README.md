@@ -104,7 +104,9 @@ streamlit run dashboard/streamlit_app.py
 - Popularity trend by year
 - Genre distribution
 
-📸 (*Tambahkan screenshot dashboard di sini jika ada*)
+**Here’s a preview of the interactive dashboard:**
+
+![Dashboard Screenshot](assets/dashboard.png)
 
 ---
 
